@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KDV Calculate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Setting</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="usdText">USD Exchange</string>
+    <string name="kdvText">KDV</string>
+    <string name="save_changes">Save</string>
+    <string name="calculate">Calculate</string>
+    <string name="trKdv">Try Lira</string>
+    <string name="empty"></string>
+
+</resources>
